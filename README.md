@@ -1,4 +1,12 @@
 # Larry Ramirez Coach 🐺 
+## I'm a Technical Coach at SofkaU 🕹️
+
+# 💫 About Me:
+I´m a Technical Coach at SofkaU
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larry-ramirez) 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **larryramirezsofka/larryramirezsofka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
