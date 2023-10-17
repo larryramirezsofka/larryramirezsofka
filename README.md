@@ -2,8 +2,10 @@
 ### I'm a Technical Coach at SofkaU 🕹️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larry-ramirez) 
----
+
 [![](https://visitcount.itsvg.in/api?id=larryramirezsofka&icon=5&color=6)](https://visitcount.itsvg.in)
+
+
 
 
 <!--
